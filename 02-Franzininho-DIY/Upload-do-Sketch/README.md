@@ -17,19 +17,23 @@ Para fazer o upload para a Franzininho é necessário seguir os passos abaixo:
 
 ![](./image1.png)
 
-2 - Pressione o botão de Reset:
+2- Selecione no sketch Tools -> Board -> Arduino Gemma
+
+3- Selecione no sketch Tools -> Programmer -> Arduino Gemma
+
+4 - Pressione o botão de Reset:
 
 ![](./image2.png)
 
-3 - Imediatamente em seguida clique no botão de upload na IDE:
+5 - Imediatamente em seguida clique no botão de upload na IDE:
 
 ![](./image3.png)
 
-4 - É iniciada a programação:
+6 - É iniciada a programação:
 
 ![](./image4.png)
 
-5 - Após alguns instantes a sua Franzininho estará programada:
+7 - Após alguns instantes a sua Franzininho estará programada:
 
 ![](./image5.png)
 
